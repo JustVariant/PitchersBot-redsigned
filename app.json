@@ -12,7 +12,7 @@
       "player",
       "python",
       "pyrogram",
-      "pytgcalls",
+      "",
       "videoplayer"
     ],
     "env": {
